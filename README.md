@@ -11,7 +11,6 @@ Most consecutive days are 1 from 07.07.2023 until "not yet reached"
 
 Description of the solved kata:
 -------------------------------
-josephus.py
-
+josephus.py \n
 Permutate a list with random items as if they were in a circle and count out every k item
 https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python
