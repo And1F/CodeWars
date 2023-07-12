@@ -3,7 +3,7 @@ This repository contains all my solved CodeWars problems since 07.07.2023
 My goal is to atleast solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
 Number of solved kata so far: 7   
-Most consecutive days are 7 from 07.07.2023 until "end of streak not reached yet"
+Most consecutive days are 6 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
