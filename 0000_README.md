@@ -2,8 +2,8 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to atleast solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 6   
-Most consecutive days are 6 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 7   
+Most consecutive days are 7 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -32,5 +32,18 @@ https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 0006_best_travel.py:         
 Returns the nearest sum of n numbers, which are given in a list, that is smaller than a set limit.   
 https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/solutions/python
+
+0007_sum_of_intervals.py:         
+Returns the sum of all intervals given in a list, but counts out all overlaping.
+https://www.codewars.com/kata/52b7ed099cdc285c300001cd/solutions/python
+
+
+
+
+
+
+
+
+
 
 
