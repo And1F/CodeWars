@@ -38,7 +38,7 @@ Returns the sum of all intervals given in a list, but counts out all overlaping.
 https://www.codewars.com/kata/52b7ed099cdc285c300001cd/solutions/python
 
 0008_RGB.py:       
-Given three numbers from 1 to 255, this function returns the equivalent in hexadecimal numbers and puts them togehter which is basically a transformator into RGB format
+Given three numbers from 1 to 255, this function returns the equivalent in hexadecimal numbers and puts them togehter which is basically a transformator into RGB format     
 https://www.codewars.com/kata/513e08acc600c94f01000001/train/python
 
 
