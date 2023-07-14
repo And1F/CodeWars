@@ -2,8 +2,8 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to atleast solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 8   
-Most consecutive days are 7 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 9   
+Most consecutive days are 8 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -30,18 +30,20 @@ Returns a formated and easy to read time duration
 https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 
 0006_best_travel.py:         
-Returns the nearest sum of n numbers, which are given in a list, that is smaller than a set limit.   
+Returns the nearest sum of n numbers, which are given in a list, that is smaller than a set limit   
 https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/solutions/python
 
 0007_sum_of_intervals.py:         
-Returns the sum of all intervals given in a list, but counts out all overlaping.
+Returns the sum of all intervals given in a list, but counts out all overlaping     
 https://www.codewars.com/kata/52b7ed099cdc285c300001cd/solutions/python
 
 0008_RGB.py:       
 Given three numbers from 1 to 255, this function returns the equivalent in hexadecimal numbers and puts them togehter which is basically a transformator into RGB format     
 https://www.codewars.com/kata/513e08acc600c94f01000001/train/python
 
-
+0009_product_Fib.py:      
+This piece of code makes some calculations with the Fibonacci sequence      
+https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/python
 
 
 
