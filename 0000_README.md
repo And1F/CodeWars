@@ -2,8 +2,8 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to atleast solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 10   
-Most consecutive days are 9 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 11   
+Most consecutive days are 10 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -49,7 +49,9 @@ https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/python
 This function returns a string with certain adjustment to the human language        
 https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python
 
-
+0011_top_3_words.py:       
+Returns the 3 most used words in the string     
+https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/python
 
 
 
