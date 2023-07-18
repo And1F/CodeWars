@@ -58,7 +58,7 @@ Given two lists this function returns the True if they have the same structure
 https://www.codewars.com/kata/520446778469526ec0000001/train/python
 
 0013_find_missing_letter.py:              
-Finds the missing letter in a sequence of the alphabet
+Finds the missing letter in a sequence of the alphabet                  
 https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python
 
 
