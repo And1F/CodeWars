@@ -1,9 +1,9 @@
 # CodeWars
 This repository contains all my solved CodeWars problems since 07.07.2023    
-My goal is to atleast solve one kata a day    
+My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 12   
-Most consecutive days are 11 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 13   
+Most consecutive days are 12 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -55,4 +55,47 @@ https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/python
 
 0012_nesting_structure_comparison.py:          
 Given two lists this function returns the True if they have the same structure
-https://www.codewars.com/kata/520446778469526ec0000001/solutions/python
+https://www.codewars.com/kata/520446778469526ec0000001/train/python
+
+0013_find_missing_letter.py:              
+Finds the missing letter in a sequence of the alphabet
+https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
