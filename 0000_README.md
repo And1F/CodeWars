@@ -2,8 +2,8 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 15   
-Most consecutive days are 14 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 16   
+Most consecutive days are 15 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -69,8 +69,9 @@ https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/python
 Imagine you need to calculate a winner in a runoff voting. This function can exactly do that               
 https://www.codewars.com/kata/52996b5c99fdcb5f20000004/train/python
 
-
-
+0016_order.py:                
+If you have a string of words with numbers from 1 to n inside the words, this function returns the words in order of the numbers          
+https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python
 
 
 
