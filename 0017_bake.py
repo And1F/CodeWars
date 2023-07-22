@@ -1,4 +1,4 @@
-def cakes(recipe, available):
+def bake(recipe, available):
     a = []
     try:
         for ingredient in list(recipe.keys()):
