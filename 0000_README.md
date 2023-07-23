@@ -2,8 +2,8 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 17   
-Most consecutive days are 16 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 18   
+Most consecutive days are 17 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -25,8 +25,8 @@ https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/python
 Calculates how many layers of a beerpyramid you can build given your money and a beerprice
 https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/train/python
 
-0005_format_time.py:
-Returns a formated and easy to read time duration
+0005_format_time.py:         
+Returns a formated and easy to read time duration        
 https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 
 0006_best_travel.py:         
