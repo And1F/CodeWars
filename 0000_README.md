@@ -77,8 +77,9 @@ https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/python
 Given a recipe and a list of available ingredients this function returns the amount of items you can bake        
 https://www.codewars.com/kata/525c65e51bf619685c000059/train/python
 
-
-
+0018_last_digit.py:           
+Returns the last digit from the multiplication from two integers
+https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python
 
 
 
