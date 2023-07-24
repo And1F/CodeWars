@@ -2,8 +2,8 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 18   
-Most consecutive days are 17 from 07.07.2023 until "end of streak not reached yet"
+Number of solved kata so far: 19   
+Most consecutive days are 18 from 07.07.2023 until "end of streak not reached yet"
 
 
 Description of the solved kata:
@@ -78,11 +78,12 @@ Given a recipe and a list of available ingredients this function returns the amo
 https://www.codewars.com/kata/525c65e51bf619685c000059/train/python
 
 0018_last_digit.py:               
-Returns the last digit from the multiplication from two integers                       
-https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python
+Returns the last digit from one power to another integer                                   
+https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python        
 
-
-
+0019_last_digit_of_large_numbers.py:               
+Enlightens you about the last digit of a lst of integers who one is to the power the next               
+https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python
 
 
 
