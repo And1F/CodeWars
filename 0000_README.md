@@ -85,7 +85,9 @@ https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python
 Enlightens you about the last digit of a lst of integers who one is to the power the next               
 https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python
 
-
+0020_sum_of_square_numbers.py:                                       
+Calculates the amount of square number needed to add up to an initial number n                    
+https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084/train/python
 
 
 
