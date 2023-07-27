@@ -2,9 +2,9 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 19   
-Most consecutive days are 18 from 07.07.2023 until "end of streak not reached yet"
-
+Number of solved kata so far: 21            
+Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
+On going streak: 1 days from 27.07.23                  
 
 Description of the solved kata:
 -------------------------------
@@ -89,7 +89,9 @@ https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python
 Calculates the amount of square number needed to add up to an initial number n                    
 https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084/train/python
 
-
+0021_smaller_than.py:                         
+This function returns a list with the number of items who are smaller and behind the item in the same position in the original list             
+https://www.codewars.com/kata/56a1c074f87bc2201200002e/train/python                 
 
 
 
