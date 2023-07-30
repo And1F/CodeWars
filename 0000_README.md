@@ -2,9 +2,9 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 23            
+Number of solved kata so far: 24            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 3 days from 27.07.23                  
+On going streak: 4 days from 27.07.23                  
 
 Description of the solved kata:
 -------------------------------
@@ -101,7 +101,9 @@ https://www.codewars.com/kata/52449b062fb80683ec000024/train/python
 Checks wether a sudoku is filled in correctly                      
 https://www.codewars.com/kata/63d1bac72de941033dbf87ae/train/python
 
-
+0024_rent_calculator.py:                                             
+Calculates the rent of each persons with n persons renting for x days and returns the data in form of a dictionary                
+https://www.codewars.com/kata/63aa7b499c53c5af68e86a86/train/python            
 
 
 
