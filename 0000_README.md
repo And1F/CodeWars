@@ -2,9 +2,9 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 27            
+Number of solved kata so far: 28            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 7 days from 27.07.23                  
+On going streak: 8 days from 27.07.23                  
 
 Description of the solved kata:
 -------------------------------
@@ -116,5 +116,85 @@ https://www.codewars.com/kata/63ee1d8892cff420d2c869af/train/python
 0027_name_all_the_keywords.py:                                                                                  
 As the name suggests you have to name all keywords                                                    
 https://www.codewars.com/kata/634ac4e77611b9f57dff456d/train/python
+
+0028_barbell_weight.py:                                              
+Simply returns the weight of a Barbell                                   
+https://www.codewars.com/kata/6400aa17431f2d89c07eea75/train/python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
