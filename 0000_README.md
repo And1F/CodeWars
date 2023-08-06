@@ -2,9 +2,9 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 30            
+Number of solved kata so far: 31            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 10 days from 27.07.23                  
+On going streak: 11 days from 27.07.23                  
 
 Description of the solved kata:
 -------------------------------
@@ -129,8 +129,9 @@ https://www.codewars.com/kata/6400c3ebf4a0b796602988a6/train/python
 Returns the fastest way to adjust a barbell given two weights                           
 https://www.codewars.com/kata/6400caeababb193c64d664d1/train/python
 
-
-
+0031_multiples_of_3_and_5:                         
+Gives the sum of all numbers that are divisible by 3 and 5 and are below the inputnumber                   
+https://www.codewars.com/kata/514b92a657cdc65150000006/train/python
 
 
 
