@@ -2,9 +2,9 @@
 This repository contains all my solved CodeWars problems since 07.07.2023    
 My goal is to at least solve one kata a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 31            
+Number of solved kata so far: 32            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 11 days from 27.07.23                  
+On going streak: 12 days from 27.07.23                  
 
 Description of the solved kata:
 -------------------------------
@@ -133,7 +133,9 @@ https://www.codewars.com/kata/6400caeababb193c64d664d1/train/python
 Gives the sum of all numbers that are divisible by 3 and 5 and are below the inputnumber                   
 https://www.codewars.com/kata/514b92a657cdc65150000006/train/python
 
-
+0032_spin_words.py:                                                      
+Reverses all the words who are longer than 4 letters in a string                                          
+https://www.codewars.com/kata/5264d2b162488dc400000001/train/python
 
 
 
