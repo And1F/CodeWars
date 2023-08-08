@@ -1,12 +1,13 @@
-# CodeWars
-This repository contains all my solved CodeWars problems since 07.07.2023    
-My goal is to at least solve one kata a day    
-Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata    
-Number of solved kata so far: 32            
+# CodeWars x Leetcode
+This repository contains all my solved CodeWars and LeetCode problems since 07.07.2023    
+My goal is to at least solve one problem a day    
+Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
+Leetcode is an educational platform for computer programming. On the platform, software developers train on programming problems
+Number of solved problems so far: 33            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 12 days from 27.07.23                  
+On going streak: 13 days from 27.07.23                  
 
-Description of the solved kata:
+Description of the solved problems:
 -------------------------------
 
 0001_josephus.py:  
@@ -137,8 +138,9 @@ https://www.codewars.com/kata/514b92a657cdc65150000006/train/python
 Reverses all the words who are longer than 4 letters in a string                                          
 https://www.codewars.com/kata/5264d2b162488dc400000001/train/python
 
-
-
+0033_pandas_big_countries.py:              
+My first Leetcode Problem select countries that are big in a Pandas DataFrame                     
+https://leetcode.com/problems/big-countries/
 
 
 
