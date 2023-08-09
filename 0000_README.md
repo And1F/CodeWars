@@ -3,7 +3,7 @@ This repository contains all my solved CodeWars and LeetCode problems since 07.0
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 34            
+Number of solved problems so far: 35            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
 On going streak: 14 days from 27.07.23                  
 
@@ -146,9 +146,9 @@ https://leetcode.com/problems/big-countries/
 Generates the associated message to a like button                                       
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python
 
-
-
-
+0035_domain_name.py:                                   
+Strips an URL of everything except his domain name                                 
+https://www.codewars.com/kata/514a024011ea4fb54200004b/train/python
 
 
 
