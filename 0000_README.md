@@ -146,7 +146,7 @@ https://leetcode.com/problems/big-countries/
 Generates the associated message to a like button                                       
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python
 
-0035_domain_name.py:                                   
+0035_extract_url.py:                                   
 Strips an URL of everything except his domain name                                 
 https://www.codewars.com/kata/514a024011ea4fb54200004b/train/python
 
