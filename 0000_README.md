@@ -143,7 +143,7 @@ My first Leetcode Problem select countries that are big in a Pandas DataFrame
 https://leetcode.com/problems/big-countries/
 
 0034_likes.py:                             
-Generates the associated message to a like button 
+Generates the associated message to a like button                                       
 https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python
 
 
