@@ -151,7 +151,7 @@ Strips an URL of everything except his domain name
 https://www.codewars.com/kata/514a024011ea4fb54200004b/train/python
 
 0036_pandas_products.py:                                 
-Returns a DataFrame with the wanted attributes
+Returns a DataFrame with the wanted attributes                                                       
 https://leetcode.com/problems/recyclable-and-low-fat-products/
 
 
