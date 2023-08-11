@@ -3,9 +3,9 @@ This repository contains all my solved CodeWars and LeetCode problems since 07.0
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 36            
+Number of solved problems so far: 37            
 Most consecutive days are 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 15 days from 27.07.23                  
+On going streak: 16 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -154,7 +154,9 @@ https://www.codewars.com/kata/514a024011ea4fb54200004b/train/python
 Returns a DataFrame with the wanted attributes                                                       
 https://leetcode.com/problems/recyclable-and-low-fat-products/
 
-
+0037_pandas_orders.py:                                                
+Compares the Id's of two DataFrames                                                     
+https://leetcode.com/problems/customers-who-never-order/
 
 
 
