@@ -158,9 +158,13 @@ https://leetcode.com/problems/recyclable-and-low-fat-products/
 Compares the Id's of two DataFrames                                                     
 https://leetcode.com/problems/customers-who-never-order/
 
+0038_article_views.py:                                                                                
+Checks if two specific rows share the same number                     
+https://leetcode.com/problems/article-views-i/
 
-
-
+0039_invalid_tweets.py:                                                                         
+Checks if any Tweet in a DataFrame surpasses the max amount of characters, which in this case is 15                         
+https://leetcode.com/problems/invalid-tweets/
 
 
 
