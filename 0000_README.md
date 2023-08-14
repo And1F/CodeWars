@@ -3,9 +3,9 @@ This repository contains all my solved CodeWars and LeetCode problems since 07.0
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 39            
+Number of solved problems so far: 40            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 18 days from 27.07.23                  
+On going streak: 19 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -166,8 +166,9 @@ https://leetcode.com/problems/article-views-i/
 Checks if any Tweet in a DataFrame surpasses the max amount of characters, which in this case is 15                         
 https://leetcode.com/problems/invalid-tweets/
 
-
-
+0040_strip_comments.py:                                                             
+Strips comments (which are any characters after a special symbol you choose) in every line in a string                              
+https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python
 
 
 
