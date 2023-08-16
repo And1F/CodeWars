@@ -3,9 +3,9 @@ This repository contains all my solved CodeWars and LeetCode problems since 07.0
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 41            
+Number of solved problems so far: 42            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 20 days from 27.07.23                  
+On going streak: 21 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
