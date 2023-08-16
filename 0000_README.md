@@ -174,7 +174,7 @@ https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python
 Calculates the score from a dice game called greed                                                    
 https://www.codewars.com/kata/5270d0d18625160ada0000e4/solutions/python
 
-0042_perfect_power.py:
+0042_perfect_power.py:                                                        
 From a number this function returns both a base and a exponent integer, so the number results
 https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/python
 
