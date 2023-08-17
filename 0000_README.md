@@ -3,9 +3,9 @@ This repository contains all my solved CodeWars and LeetCode problems since 07.0
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 42            
+Number of solved problems so far: 43            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 21 days from 27.07.23                  
+On going streak: 22 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -178,7 +178,9 @@ https://www.codewars.com/kata/5270d0d18625160ada0000e4/solutions/python
 From a number this function returns both a base and a exponent integer, so the number results
 https://www.codewars.com/kata/54d4c8b08776e4ad92000835/train/python
 
-
+0043_find_odd_int.py:                                                             
+Finds the integer that is an odd amount in a list                                                                                  
+https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python
 
 
 
