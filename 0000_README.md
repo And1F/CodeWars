@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 46            
+Number of solved problems so far: 47            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 25 days from 27.07.23                  
+On going streak: 26 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -194,7 +194,9 @@ https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python
 Applies the fibonacci algorithm with the last 3 digits instead of 2
 https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/python
 
-
+0047_remove_nth.py:
+Given a list and a number returns the list cleansed of items that occur more than the number specifies
+https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/python
 
 
 
