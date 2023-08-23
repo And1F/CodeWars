@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 48            
+Number of solved problems so far: 49            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 27 days from 27.07.23                  
+On going streak: 28 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -202,8 +202,9 @@ https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/python
 Performs the mexican wave on strings                                                                         
 https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/python
 
-
-
+0049_pyramid_slide.py:                                                                                                     
+Caculates the best route in a pyramid from top to bottom                           
+https://www.codewars.com/kata/551f23362ff852e2ab000037/train/python
 
 
 
