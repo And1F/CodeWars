@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 51            
+Number of solved problems so far: 52            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 30 days from 27.07.23                  
+On going streak: 31 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -214,8 +214,9 @@ https://www.codewars.com/kata/555b1890a75b930e63000023/train/python
 For a sorted list creates a range (with - as indicator) between neighbouring clusters of numbers                          
 https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/python
 
-
-
+0052_next_bigger.py:                                                           
+Given a integer returns the next bigger integer                             
+https://www.codewars.com/kata/55983863da40caa2c900004e/train/python
 
 
 
