@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 54            
+Number of solved problems so far: 55            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 33 days from 27.07.23                  
+On going streak: 34 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -226,8 +226,9 @@ https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python
 Increments the number at the end of the string                                                 
 https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/python
 
-
-
+0055_is_prime.py                                                                                              
+Checks wether a number is a prime number or not                                                                                        
+https://www.codewars.com/kata/5262119038c0985a5b00029f/train/python
 
 
 
