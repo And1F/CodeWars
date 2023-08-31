@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 56            
+Number of solved problems so far: 57            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 35 days from 27.07.23                  
+On going streak: 36 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -234,9 +234,9 @@ https://www.codewars.com/kata/5262119038c0985a5b00029f/train/python
 Checks wether a string is an IP-number or not                                              
 https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/python
  
-
-
-
+0057_sums_of_parts.py                                                                                                                        
+Lists partial sums of a list of integers                                                                           
+https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/python
 
 
 
