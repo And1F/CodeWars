@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 57            
+Number of solved problems so far: 58            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 36 days from 27.07.23                  
+On going streak: 37 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -238,7 +238,9 @@ https://www.codewars.com/kata/515decfd9dcfc23bb6000006/train/python
 Lists partial sums of a list of integers                                                                           
 https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/python
 
-
+0058_sum_of_pairs.py                            
+Finds the first two numbers in a List that add up to a given number                                 
+https://www.codewars.com/kata/54d81488b981293527000c8f/train/python
 
 
 
