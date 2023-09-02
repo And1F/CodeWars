@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 58            
+Number of solved problems so far: 59            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 37 days from 27.07.23                  
+On going streak: 38 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -242,7 +242,9 @@ https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/python
 Finds the first two numbers in a List that add up to a given number                                 
 https://www.codewars.com/kata/54d81488b981293527000c8f/train/python
 
-
+0059_password_validation.py                                          
+Regex that will check if a password meets certain conditions                                                  
+https://www.codewars.com/kata/52e1476c8147a7547a000811/train/python
 
 
 
