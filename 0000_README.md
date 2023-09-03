@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 59            
+Number of solved problems so far: 60            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 38 days from 27.07.23                  
+On going streak: 39 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -246,8 +246,9 @@ https://www.codewars.com/kata/54d81488b981293527000c8f/train/python
 Regex that will check if a password meets certain conditions                                                  
 https://www.codewars.com/kata/52e1476c8147a7547a000811/train/python
 
-
-
+0060_expand_format.py                                                                      
+Converts a number into a string in expanded format                                               
+https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/python
 
 
 
