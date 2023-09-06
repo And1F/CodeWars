@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 62            
+Number of solved problems so far: 63            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 41 days from 27.07.23                  
+On going streak: 42 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -258,8 +258,9 @@ https://www.codewars.com/kata/51b6249c4612257ac0000005/train/python
 Converts a string into Camel Case                             
 https://www.codewars.com/kata/587731fda577b3d1b0001196/train/python
 
-
-
+0063_create_phonenumber.py                                                          
+Given a list of 10 integers creates the equivalent phone number american style                                               
+https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python
 
 
 
