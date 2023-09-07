@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 63            
+Number of solved problems so far: 64            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 42 days from 27.07.23                  
+On going streak: 43 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -250,8 +250,8 @@ https://www.codewars.com/kata/52e1476c8147a7547a000811/train/python
 Converts a number into a string in expanded format                                               
 https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/python
 
-0061_roman_number_encoder.py                                 
-Converts roman numbers into decimal numbers                                                             
+0061_roman_number_decoder.py                                 
+Converts a roman number into decimal numbers                                                             
 https://www.codewars.com/kata/51b6249c4612257ac0000005/train/python
 
 0062_CamelCase.py                                               
@@ -262,9 +262,9 @@ https://www.codewars.com/kata/587731fda577b3d1b0001196/train/python
 Given a list of 10 integers creates the equivalent phone number american style                                               
 https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python
 
-
-
-
+0064_roman_number_encoder.py
+Converts a decimal number into a roman number
+https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/python
 
 
 
