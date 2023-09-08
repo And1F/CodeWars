@@ -3,9 +3,9 @@ This repository contains mainly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 64            
+Number of solved problems so far: 65            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 43 days from 27.07.23                  
+On going streak: 44 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -266,9 +266,9 @@ https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/python
 Converts a decimal number into a roman number
 https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/python
 
-
-
-
+0065_isalphanumeric.py                                                          
+Checks wether a string is alphanumeric                                                        
+https://www.codewars.com/kata/526dbd6c8c0eb53254000110/train/python
 
 
 
