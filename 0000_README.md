@@ -1,11 +1,11 @@
 # CodeWars x Leetcode
-This repository contains mainly all my solved CodeWars problems and some LeetCode problems since 07.07.2023    
+This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023    
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 66            
+Number of solved problems so far: 67            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 45 days from 27.07.23                  
+On going streak: 46 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -274,7 +274,9 @@ https://www.codewars.com/kata/526dbd6c8c0eb53254000110/train/python
 Given a list and an int n, this function gives you a list expanded in form of the fibonacci sequence with length n              
 https://www.codewars.com/kata/556e0fccc392c527f20000c5/train/python
 
-
+0067_+1.py                                                                                           
+Given a list containing a number splitted into numerals returns the number +1 also splitted into numerals                    
+https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9/train/python
 
 
 
