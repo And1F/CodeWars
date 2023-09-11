@@ -3,9 +3,9 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 67            
+Number of solved problems so far: 68            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 46 days from 27.07.23                  
+On going streak: 47 days from 27.07.23                  
 
 Description of the solved problems:
 -------------------------------
@@ -278,7 +278,9 @@ https://www.codewars.com/kata/556e0fccc392c527f20000c5/train/python
 Given a list containing a number splitted into numerals returns the number +1 also splitted into numerals                    
 https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9/train/python
 
-
+0068_weird_string_case.py                                                                    
+Converts a string into a string where every second letter is uppercase                                                                   
+https://www.codewars.com/kata/52b757663a95b11b3d00062d/train/python
 
 
 
