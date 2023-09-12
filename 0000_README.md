@@ -3,13 +3,12 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 68            
+Number of solved problems so far: 69            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 47 days from 27.07.23                  
+On going streak: 48 days from 27.07.23                  
 
 Description of the solved problems:
--------------------------------
-
+-----------------------------------
 0001_josephus.py  
 Permutate a list with random items as if they were in a circle and count out every k item
 https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python
@@ -282,8 +281,9 @@ https://www.codewars.com/kata/5514e5b77e6b2f38e0000ca9/train/python
 Converts a string into a string where every second letter is uppercase                                                                   
 https://www.codewars.com/kata/52b757663a95b11b3d00062d/train/python
 
-
-
+0069_mulitplication_table.py                                                             
+Creates a mulitplication table size NxN given an integer                                                          
+https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/python
 
 
 
