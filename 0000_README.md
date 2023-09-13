@@ -3,9 +3,9 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 69            
+Number of solved problems so far: 70            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 48 days from 27.07.23                  
+On going streak: 49 days from 27.07.23                  
 
 Description of the solved problems:
 -----------------------------------
@@ -285,8 +285,9 @@ https://www.codewars.com/kata/52b757663a95b11b3d00062d/train/python
 Creates a mulitplication table size NxN given an integer                                                          
 https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/python
 
-
-
+0070_find_missing_term.py                                     
+Finds the missing term in a sequence                                                   
+https://www.codewars.com/kata/52de553ebb55d1fca3000371/train/python
 
 
 
