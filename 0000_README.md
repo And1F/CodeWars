@@ -3,9 +3,9 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 72            
+Number of solved problems so far: 73            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 51 days from 27.07.23                  
+On going streak: 52 days from 27.07.23                  
 
 Description of the solved problems:
 -----------------------------------
@@ -297,7 +297,9 @@ https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/python
 Gives you the x variable of the intersection of the linear function in a special format                     
 https://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/python
 
-
+0073_vowel_encoding.py                                                       
+Encodes a string by replacing every vowel with a number                                                      
+https://www.codewars.com/kata/53697be005f803751e0015aa/train/python       
 
 
 
