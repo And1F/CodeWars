@@ -3,9 +3,9 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 73            
+Number of solved problems so far: 74            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 52 days from 27.07.23                  
+On going streak: 53 days from 27.07.23                  
 
 Description of the solved problems:
 -----------------------------------
@@ -301,7 +301,9 @@ https://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/python
 Encodes a string by replacing every vowel with a number                                                      
 https://www.codewars.com/kata/53697be005f803751e0015aa/train/python       
 
-
+0074_most_fruquent_number.py                                                                       
+Returns the most frequent number in an array. In case of a tie returns the higher number                           
+https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004/train/python
 
 
 
