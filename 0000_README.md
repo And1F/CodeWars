@@ -3,9 +3,9 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day    
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 75            
+Number of solved problems so far: 76            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 54 days from 27.07.23                  
+On going streak: 55 days from 27.07.23                  
 
 Description of the solved problems:
 -----------------------------------
@@ -309,8 +309,9 @@ https://www.codewars.com/kata/5420fc9bb5b2c7fd57000004/train/python
 Informs you about the height of consecutive consonants in a string                                                 
 https://www.codewars.com/kata/59c633e7dcc4053512000073/train/python
 
-
-
+076_pyramid_array.py                                                                  
+Given a number n this function returns a pyramid-structured array with n layers
+https://www.codewars.com/kata/515f51d438015969f7000013/train/python
 
 
 
