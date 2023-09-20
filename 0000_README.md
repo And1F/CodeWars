@@ -1,11 +1,12 @@
 # CodeWars x Leetcode
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023    
-My goal is to at least solve one problem a day    
+My goal is to at least solve one problem a day                                                  
+The primary Languages are Python and C++                                                                  
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 76            
+Number of solved problems so far: 77            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 55 days from 27.07.23                  
+On going streak: 56 days from 27.07.23                  
 
 Description of the solved problems:
 -----------------------------------
@@ -313,7 +314,9 @@ https://www.codewars.com/kata/59c633e7dcc4053512000073/train/python
 Given a number n this function returns a pyramid-structured array with n layers
 https://www.codewars.com/kata/515f51d438015969f7000013/train/python
 
-
+0077_vowel_count.cpp                                                                                  
+Counts all the vowels in a string                                                                               
+https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/cpp
 
 
 
