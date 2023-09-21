@@ -318,8 +318,9 @@ https://www.codewars.com/kata/515f51d438015969f7000013/train/python
 Counts all the vowels in a string                                                                               
 https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/cpp
 
-
-
+0078_even_or_odd.cpp                                               
+Tells you if a number is even or odd                                
+https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/cpp
 
 
 
