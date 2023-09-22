@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day
 The primary Languages are Python and C++                                                                  
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata                                               
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems
-Number of solved problems so far: 77            
+Number of solved problems so far: 79            
 Last streak: 18 from 07.07.2023 until 25.07.2023                     
-On going streak: 56 days from 27.07.23                  
+On going streak: 58 days from 27.07.23                  
 
 Description of the solved problems:
 -----------------------------------
@@ -322,7 +322,9 @@ https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/cpp
 Tells you if a number is even or odd                                
 https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/cpp
 
-
+### 0079_sum_of_positives.cpp<br>
+Returns the sum of all positive elements in an array<br>
+https://www.codewars.com/kata/5715eaedb436cf5606000381/train/cpp
 
 
 
