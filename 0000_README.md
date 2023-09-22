@@ -10,11 +10,11 @@ On going streak: 58 days from 27.07.23
 
 Description of the solved problems:
 -----------------------------------
-0001_josephus.py  
-Permutate a list with random items as if they were in a circle and count out every k item
+#### 0001_josephus.py
+Permutate a list with random items as if they were in a circle and count out every k item<br>
 https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python
 
-0002_tic-tac-toe-checker.py    
+### 0002_tic-tac-toe-checker.py
 Returns the status of a Tic-Tac-Toe-Board, whether the game is won, drawn or the outcome is still open
 https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/python
 
@@ -322,7 +322,7 @@ https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/cpp
 Tells you if a number is even or odd                                
 https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/cpp
 
-### 0079_sum_of_positives.cpp
+#### 0079_sum_of_positives.cpp
 Returns the sum of all positive elements in an array<br>
 https://www.codewars.com/kata/5715eaedb436cf5606000381/train/cpp
 
