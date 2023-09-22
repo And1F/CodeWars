@@ -10,7 +10,7 @@ On going streak: 58 days from 27.07.23
 
 Description of the solved problems:
 -----------------------------------
-#### 0001_josephus.py
+### 0001_josephus.py
 Permutate a list with random items as if they were in a circle and count out every k item<br>
 https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python
 
