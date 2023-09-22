@@ -322,7 +322,7 @@ https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/cpp
 Tells you if a number is even or odd                                
 https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/cpp
 
-### 0079_sum_of_positives.cpp<br>
+### 0079_sum_of_positives.cpp
 Returns the sum of all positive elements in an array<br>
 https://www.codewars.com/kata/5715eaedb436cf5606000381/train/cpp
 
