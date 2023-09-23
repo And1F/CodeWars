@@ -10,35 +10,35 @@ On going streak: 58 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
-### 0001_josephus.py
+#### 0001_josephus.py
 Permutate a list with random items as if they were in a circle and count out every k item<br>
 https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python
 
-### 0002_tic-tac-toe-checker.py
+#### 0002_tic-tac-toe-checker.py
 Returns the status of a Tic-Tac-Toe-Board, whether the game is won, drawn or the outcome is still open<br>
 https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/python
 
-### 0003_first_non-repeating_character.py
+#### 0003_first_non-repeating_character.py
 Returns the first character which doesn't repeat itself in the string<br>
 https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/python
 
-### 0004_beeramid.py
+#### 0004_beeramid.py
 Calculates how many layers of a beerpyramid you can build given your money and a beerprice<br>
 https://www.codewars.com/kata/51e04f6b544cf3f6550000c1/train/python
 
-### 0005_format_time.py
+#### 0005_format_time.py
 Returns a formated and easy to read time duration<br>
 https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python
 
-### 0006_best_travel.py
+#### 0006_best_travel.py
 Returns the nearest sum of n numbers, which are given in a list, that is smaller than a set limit<br>
 https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train/python
 
-### 0007_sum_of_intervals.py
+#### 0007_sum_of_intervals.py
 Returns the sum of all intervals given in a list, but counts out all overlaping<br>
 https://www.codewars.com/kata/52b7ed099cdc285c300001cd/train/python
 
-### 0008_RGB.py
+#### 0008_RGB.py
 Given three numbers from 1 to 255, this function returns the equivalent in hexadecimal numbers and puts them togehter which is a transformator into RGB format<br>
 https://www.codewars.com/kata/513e08acc600c94f01000001/train/python
 
