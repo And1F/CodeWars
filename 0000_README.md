@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 79<br>
+Number of solved problems so far: 80<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 58 days from 27.07.23<br>
+On going streak: 59 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -326,7 +326,9 @@ https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/cpp
 Returns the sum of all positive elements in an array<br>
 https://www.codewars.com/kata/5715eaedb436cf5606000381/train/cpp
 
-
+### 0080_min_max.cpp
+From a string of integers detects the highest and lowest integer<br>
+https://www.codewars.com/kata/554b4ac871d6813a03000035/train/cpp
 
 
 
