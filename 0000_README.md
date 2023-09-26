@@ -12,7 +12,7 @@ Description of the solved problems:
 -----------------------------------
 ### 0001_josephus.py
 Permutate a list with random items as if they were in a circle and count out every k item<br>
-https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python
+https://www.codewars.com/kata/5550d638a99ddb113e0000a2/train/python<br>
 
 ### 0002_tic-tac-toe-checker.py
 Returns the status of a Tic-Tac-Toe-Board, whether the game is won, drawn or the outcome is still open<br>
