@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 82<br>
+Number of solved problems so far: 83<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 61 days from 27.07.23<br>
+On going streak: 62 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -330,15 +330,17 @@ https://www.codewars.com/kata/5715eaedb436cf5606000381/train/cpp
 From a string of integers detects the highest and lowest integer<br>
 https://www.codewars.com/kata/554b4ac871d6813a03000035/train/cpp
 
-### 81_square_digits.cpp
+### 0081_square_digits.cpp
 Squares every digit and combines it into a string<br>
 https://www.codewars.com/kata/546e2562b03326a88e000020/train/cpp
 
-### 82_is_perfect_square.cpp
+### 0082_is_perfect_square.cpp
 Checks wether an integer is a perfect squear number<br>
 https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/cpp
 
-
+### 0083_shortest_word.cpp
+Finds the length of the shortest word in a string<br>
+https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/cpp
 
 
 
