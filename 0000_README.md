@@ -508,7 +508,7 @@ https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/cpp
 <br>
 
 ### 0084_growth_of_population.cpp
-Calculates the iterations (years) until a specific amount of people is reached based on population growth and immigration
+Calculates the iterations (years) until a specific amount of people is reached based on birth rate and immigration
 https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/cpp
 
 <br>
