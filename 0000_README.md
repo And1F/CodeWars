@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 84<br>
+Number of solved problems so far: 85<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 63 days from 27.07.23<br>
+On going streak: 64 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -508,13 +508,14 @@ https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/cpp
 <br>
 
 ### 0084_growth_of_population.cpp
-Calculates the iterations (years) until a specific amount of people is reached based on birth rate and immigration
+Calculates the iterations (years) until a specific amount of people is reached based on birth rate and immigration<br>
 https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/cpp
 
 <br>
 
-
-
+### 0085_is_triangle.cpp
+Checks wether 3 given numbers can form a triangle<br>
+https://www.codewars.com/kata/56606694ec01347ce800001b/train/cpp
 
 
 
