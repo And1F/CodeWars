@@ -517,7 +517,11 @@ https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/cpp
 Checks wether 3 given numbers can form a triangle<br>
 https://www.codewars.com/kata/56606694ec01347ce800001b/train/cpp
 
+<br>
 
+### 0086_remove_minimum.cpp
+Removes the first occurence of the lowest integer inside a vector<br>
+https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/cpp
 
 
 
