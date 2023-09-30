@@ -523,7 +523,11 @@ https://www.codewars.com/kata/56606694ec01347ce800001b/train/cpp
 Removes the first occurence of the lowest integer inside a vector<br>
 https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/cpp
 
+<br>
 
+### 0087_range_without_5.cpp
+Counts the numbers in a range but ignores all numbers with  a five in it<br>
+https://www.codewars.com/kata/5813d19765d81c592200001a/train/cpp
 
 
 
