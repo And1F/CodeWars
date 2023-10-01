@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 87<br>
+Number of solved problems so far: 88<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 66 days from 27.07.23<br>
+On going streak: 67 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -529,7 +529,11 @@ https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/cpp
 Counts the numbers in a range but ignores all numbers with  a five in it<br>
 https://www.codewars.com/kata/5813d19765d81c592200001a/train/cpp
 
+<br>
 
+### 0088_stray_numbers.cpp
+Finds the stray number inside a vector<br>
+https://www.codewars.com/kata/57f609022f4d534f05000024/train/cpp
 
 
 
