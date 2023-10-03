@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 89<br>
+Number of solved problems so far: 90<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 68 days from 27.07.23<br>
+On going streak: 69 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -541,8 +541,11 @@ https://www.codewars.com/kata/57f609022f4d534f05000024/train/cpp
 Finds the atleast amount of steps needed to break a n x m grid into 1 x 1 pieces<br>
 https://www.codewars.com/kata/534ea96ebb17181947000ada/train/cpp
 
+<br>
 
-
+### 0090_multiply_of_3_or_5.cpp
+Adds up all integers dividable by 3 and 5<br>
+https://www.codewars.com/kata/514b92a657cdc65150000006/train/cpp
 
 
 
