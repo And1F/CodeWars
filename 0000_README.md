@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 90<br>
+Number of solved problems so far: 91<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 69 days from 27.07.23<br>
+On going streak: 70 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -547,8 +547,11 @@ https://www.codewars.com/kata/534ea96ebb17181947000ada/train/cpp
 Adds up all integers dividable by 3 and 5<br>
 https://www.codewars.com/kata/514b92a657cdc65150000006/train/cpp
 
+<br>
 
-
+## 0091_sum_of_2_smallest_numbers.cpp
+Finds the two smalles numbers in a vector and returns the sum of the two<br>
+https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/cpp
 
 
 
