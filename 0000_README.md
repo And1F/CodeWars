@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 93<br>
+Number of solved problems so far: 94<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 72 days from 27.07.23<br>
+On going streak: 73 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -565,7 +565,11 @@ https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/cpp
 Calculates the amount of people in a bus at the end of a bus route<br>
 https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/cpp
 
+<br>
 
+### 0094_count_divisors.cpp
+Counts the amount of divisors a number has<br>
+https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/cpp
 
 
 
