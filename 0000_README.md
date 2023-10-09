@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 95<br>
+Number of solved problems so far: 96<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 74 days from 27.07.23<br>
+On going streak: 75 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -577,7 +577,11 @@ https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/cpp
 Counts all occurences of a specific digits in the squares from 0 to another specific number<br>
 https://www.codewars.com/kata/566fc12495810954b1000030/train/python
 
+<br>
 
+### 0096_Pascals_triangle.py
+Given the number of rows n returns a list with all rows until the nth row<br>
+https://www.codewars.com/kata/5226eb40316b56c8d500030f/train/python
 
 
 
