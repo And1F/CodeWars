@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 96<br>
+Number of solved problems so far: 97<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 75 days from 27.07.23<br>
+On going streak: 76 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
