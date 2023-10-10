@@ -583,7 +583,11 @@ https://www.codewars.com/kata/566fc12495810954b1000030/train/python
 Given the number of rows n returns a list with all rows until the nth row<br>
 https://www.codewars.com/kata/5226eb40316b56c8d500030f/train/python
 
+<br>
 
+### 0097_find_unique_number.cpp
+Finds a unique number in a vector<br>
+https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/cpp
 
 
 
