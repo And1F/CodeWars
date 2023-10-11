@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 97<br>
+Number of solved problems so far: 98<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 76 days from 27.07.23<br>
+On going streak: 77 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -589,7 +589,11 @@ https://www.codewars.com/kata/5226eb40316b56c8d500030f/train/python
 Finds a unique number in a vector<br>
 https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/cpp
 
+<br>
 
+### 0098_find_extremes.cpp
+Finds the difference between the largest and smallest number in an array<br>
+https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/cpp
 
 
 
