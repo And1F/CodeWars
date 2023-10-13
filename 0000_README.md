@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 99<br>
+Number of solved problems so far: 100<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 78 days from 27.07.23<br>
+On going streak: 79 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -600,6 +600,82 @@ https://www.codewars.com/kata/56d19b2ac05aed1a20000430/train/cpp
 ### 0099_sum_of_two.cpp
 Finds two integers in an array that sum to a target integer<br>
 https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/cpp
+
+<br>
+
+### 0100_counting_cars.cpp
+Simulates a road with cars ('<' and '>') and a camera ('.') and counts the cars who are captured by the camera<br>
+https://www.codewars.com/kata/6319dba6d6e2160015a842ed/train/cpp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
