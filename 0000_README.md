@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 102<br>
+Number of solved problems so far: 103<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 81 days from 27.07.23<br>
+On going streak: 82 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -619,7 +619,11 @@ https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/cpp
 Removes all numbers that occur odd times<br>
 https://www.codewars.com/kata/5d376cdc9bcee7001fcb84c0/train/cpp
 
+<br>
 
+### 0103_matrix_addition.cpp
+Adds two matrixes with the same size together<br>
+https://www.codewars.com/kata/526233aefd4764272800036f/train/cpp
 
 
 
