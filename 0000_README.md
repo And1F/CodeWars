@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 105<br>
+Number of solved problems so far: 106<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 84 days from 27.07.23<br>
+On going streak: 85 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -637,7 +637,11 @@ https://www.codewars.com/kata/56747fd5cb988479af000028/train/cpp
 Given a number of eggs and 2 fixed parameters calculates the time one needs to cook<br>
 https://www.codewars.com/kata/52b5247074ea613a09000164/train/cpp
 
+<br>
 
+### 0106_next_prime.cpp
+Returns the next prime number after a given number n<br>
+https://www.codewars.com/kata/58e230e5e24dde0996000070/train/cpp
 
 
 
