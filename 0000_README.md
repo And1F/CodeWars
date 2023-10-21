@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 108<br>
+Number of solved problems so far: 109<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 87 days from 27.07.23<br>
+On going streak: 88 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -655,7 +655,11 @@ https://www.codewars.com/kata/58712dfa5c538b6fc7000569/train/cpp
 Simulates war with characters and returns the winner<br>
 https://www.codewars.com/kata/5938f5b606c3033f4700015a/train/python
 
+<br>
 
+### 0109_z_matrix.cpp
+Returns the elements on the z-"axis" of a matrix<br>
+https://www.codewars.com/kata/63115a60e5da9e004aa3004f/train/cpp
 
 
 
