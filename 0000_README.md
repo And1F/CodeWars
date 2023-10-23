@@ -667,7 +667,11 @@ https://www.codewars.com/kata/63115a60e5da9e004aa3004f/train/cpp
 Transforms minutes into time and hashes the result<br>
 https://www.codewars.com/kata/588422ba4e8efb583d00007d/train/cpp
 
+<br>
 
+### 0111_score_board.py
+Converst spoken football results into a list of integers<br>
+https://www.codewars.com/kata/5b6c220fa0a661fbf200005d/train/python
 
 
 
