@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 111<br>
+Number of solved problems so far: 112<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 90 days from 27.07.23<br>
+On going streak: 91 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -673,7 +673,11 @@ https://www.codewars.com/kata/588422ba4e8efb583d00007d/train/cpp
 Converst spoken football results into a list of integers<br>
 https://www.codewars.com/kata/5b6c220fa0a661fbf200005d/train/python
 
+<br>
 
+### 0112_change_case.py
+Changes from one of the cases (camelCase, snake_case, kebab-case) to another<br>
+https://www.codewars.com/kata/59be8c08bf10a49a240000b1/train/python
 
 
 
