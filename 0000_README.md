@@ -6,7 +6,7 @@ Codewars is an educational community for computer programming. On the platform, 
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
 Number of solved problems so far: 113<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 91 days from 27.07.23<br>
+On going streak: 92 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
