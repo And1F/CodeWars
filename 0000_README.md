@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 113<br>
+Number of solved problems so far: 114<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 92 days from 27.07.23<br>
+On going streak: 93 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -679,9 +679,17 @@ https://www.codewars.com/kata/5b6c220fa0a661fbf200005d/train/python
 Changes from one of the cases (camelCase, snake_case, kebab-case) to another<br>
 https://www.codewars.com/kata/59be8c08bf10a49a240000b1/train/python
 
+<br>
 
+### 0113_largest_number_in_string.cpp
+Finds the largest integer in a string<br>
+https://www.codewars.com/kata/59dd2c38f703c4ae5e000014/solutions/cpp
 
+<br>
 
+### 0114_convert_to_24_hour_system.cpp
+Converts 12 hour time into 24 hour time<br>
+https://www.codewars.com/kata/59b0a6da44a4b7080300008a/train/cpp
 
 
 
