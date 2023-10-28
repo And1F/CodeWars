@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 115<br>
+Number of solved problems so far: 116<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 94 days from 27.07.23<br>
+On going streak: 95 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -697,7 +697,11 @@ https://www.codewars.com/kata/59b0a6da44a4b7080300008a/train/cpp
 Finds all prime numbers consisting of prime digits in a given range<br>
 https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7/train/python
 
+<br>
 
+### 0116_earthquake_eval.py
+Makes exponential calculations and compares it to another calculation based on a List<br>
+https://www.codewars.com/kata/55a3cb91d1c9ecaa2900001b/train/python
 
 
 
