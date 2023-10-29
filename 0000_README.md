@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 116<br>
+Number of solved problems so far: 117<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 95 days from 27.07.23<br>
+On going streak: 96 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -703,8 +703,11 @@ https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7/train/python
 Makes exponential calculations and compares it to another calculation based on a List<br>
 https://www.codewars.com/kata/55a3cb91d1c9ecaa2900001b/train/python
 
+<br>
 
-
+### 0117_range_parser.py
+Implements a range parser in python<br>
+https://www.codewars.com/kata/57d307fb9d84633c5100007a/train/python
 
 
 
