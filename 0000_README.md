@@ -721,7 +721,11 @@ https://www.codewars.com/kata/58989a079c70093f3e00008d/train/python
 Counts the digits of a given integer<br>
 https://www.codewars.com/kata/58fa273ca6d84c158e000052/train/cpp
 
+<br>
 
+### 0120_binary_array_to_decimal.py
+Converts an array of ones and zeros to a decimal number<br>
+https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/python
 
 
 
