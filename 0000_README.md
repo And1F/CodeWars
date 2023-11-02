@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 118<br>
+Number of solved problems so far: 121<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 97 days from 27.07.23<br>
+On going streak: 100 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -727,7 +727,11 @@ https://www.codewars.com/kata/58fa273ca6d84c158e000052/train/cpp
 Converts an array of ones and zeros to a decimal number<br>
 https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/python
 
+<br>
 
+### 0121_nickname_generator.py
+Given a name generates a 3-4 character long nickname<br>
+https://www.codewars.com/kata/593b1909e68ff627c9000186/train/python
 
 
 
