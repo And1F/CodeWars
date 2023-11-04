@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 122<br>
+Number of solved problems so far: 123<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 101 days from 27.07.23<br>
+On going streak: 102 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -739,8 +739,11 @@ https://www.codewars.com/kata/593b1909e68ff627c9000186/train/python
 Searches for all words with the same starting letters as a given string<br>
 https://www.codewars.com/kata/5389864ec72ce03383000484/train/python
 
+<br>
 
-
+### 0123_tower_builder.py
+Builds a string tower with "*"<br>
+https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/python
 
 
 
