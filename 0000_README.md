@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 125<br>
+Number of solved problems so far: 126<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 104 days from 27.07.23<br>
+On going streak: 105 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -757,8 +757,11 @@ https://www.codewars.com/kata/57675f3dedc6f728ee000256/train/python
 Calculates to the nth element of the skiponacci sequence and returns it as a string<br>
 https://www.codewars.com/kata/580777ee2e14accd9f000165/train/python
 
+<br>
 
-
+### 0126_word_a10n.py
+Generates word in the style of a10n (abbreviations) for every word in the string<br>
+https://www.codewars.com/kata/5375f921003bf62192000746/train/python
 
 
 
