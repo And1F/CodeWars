@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 127<br>
+Number of solved problems so far: 128<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 106 days from 27.07.23<br>
+On going streak: 107 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -769,7 +769,11 @@ https://www.codewars.com/kata/5375f921003bf62192000746/train/python
 Counts how many times a number n is divisable by a divisor before the quotient is lower than 1<br>
 https://www.codewars.com/kata/5913152be0b295cf99000001/train/python
 
+<br>
 
+### 0128_is_leap_year.py
+Checks wether a year is a leap year or not<br>
+https://www.codewars.com/kata/526c7363236867513f0005ca/train/python
 
 
 
