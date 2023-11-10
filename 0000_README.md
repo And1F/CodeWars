@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 128<br>
+Number of solved problems so far: 129<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 107 days from 27.07.23<br>
+On going streak: 108 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -775,7 +775,11 @@ https://www.codewars.com/kata/5913152be0b295cf99000001/train/python
 Checks wether a year is a leap year or not<br>
 https://www.codewars.com/kata/526c7363236867513f0005ca/train/python
 
+<br>
 
+### 0129_calculating_string_rotation.py
+Given 2 strings calculates if the one is a rotated permutation of the other and how much rotation was done<br>
+https://www.codewars.com/kata/5596f6e9529e9ab6fb000014/train/python
 
 
 
