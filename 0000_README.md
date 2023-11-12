@@ -4,9 +4,9 @@ My goal is to at least solve one problem a day<br>
 The primary Languages are Python and C++<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 130<br>
+Number of solved problems so far: 131<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 109 days from 27.07.23<br>
+On going streak: 110 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -787,7 +787,11 @@ https://www.codewars.com/kata/5596f6e9529e9ab6fb000014/train/python
 Generates friends for numbers in a integer<br>
 https://www.codewars.com/kata/65126a26597b8597d809de48/train/python
 
+<br>
 
+### 0131_vertical_sum.py
+Calculates the sum of a column in a pyramid<br>
+https://www.codewars.com/kata/65382cfc5396a5bc37d19395/train/python
 
 
 
