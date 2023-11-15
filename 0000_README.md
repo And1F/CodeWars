@@ -1,12 +1,12 @@
 # CodeWars x Leetcode
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
-The primary Languages are Python and C++<br>
+The primary Languages is Python. Other languages are C++ and Java<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 133<br>
+Number of solved problems so far: 134<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 112 days from 27.07.23<br>
+On going streak: 113 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -805,8 +805,11 @@ https://www.codewars.com/kata/5734c38da41454b7f700106e/train/python
 Calculate the nth member of a sequence<br>
 https://www.codewars.com/kata/5873b2010565844b9100026d/train/python
 
+<br>
 
-
+### 0134_even_or_odd.java
+Finds out if an integer is even or odd<br>
+https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/java
 
 
 
