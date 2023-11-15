@@ -5,6 +5,7 @@ The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 99 Problems<br>
 C++:    34 Problems<br>
 Java:    2 Problems<br>
+<br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
 Number of solved problems so far: 135<br>
