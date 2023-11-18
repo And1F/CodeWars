@@ -4,13 +4,13 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 99 Problems<br>
 C++:    34 Problems<br>
-Java:    4 Problems<br>
+Java:    5 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 136<br>
+Number of solved problems so far: 138<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 114 days from 27.07.23<br>
+On going streak: 116 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -833,7 +833,11 @@ https://www.codewars.com/kata/56747fd5cb988479af000028/train/java
 Given 2 characters returns a string with all the characters inbetween<br>
 https://www.codewars.com/kata/6512b3775bf8500baea77663/train/java
 
+<br>
 
+### 0138_convert_to_negative.java
+Converts an integer to negative<br>
+https://www.codewars.com/kata/55685cd7ad70877c23000102/train/java
 
 
 
