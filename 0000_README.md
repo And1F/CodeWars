@@ -4,13 +4,13 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 99 Problems<br>
 C++:    34 Problems<br>
-Java:    5 Problems<br>
+Java:    6 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 138<br>
+Number of solved problems so far: 139<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 116 days from 27.07.23<br>
+On going streak: 117 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -839,7 +839,11 @@ https://www.codewars.com/kata/6512b3775bf8500baea77663/train/java
 Converts an integer to negative<br>
 https://www.codewars.com/kata/55685cd7ad70877c23000102/train/java
 
+<br>
 
+### 0139_is_lucky_number.java
+Checks wether a numbers digits are divisible by 9<br>
+https://www.codewars.com/kata/55afed09237df73343000042/train/java
 
 
 
