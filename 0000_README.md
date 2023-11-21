@@ -4,13 +4,13 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 99 Problems<br>
 C++:    34 Problems<br>
-Java:    7 Problems<br>
+Java:    8 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 140<br>
+Number of solved problems so far: 141<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 118 days from 27.07.23<br>
+On going streak: 119 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -845,11 +845,17 @@ https://www.codewars.com/kata/55685cd7ad70877c23000102/train/java
 Checks wether a numbers digits are divisible by 9<br>
 https://www.codewars.com/kata/55afed09237df73343000042/train/java
 
+<br>
+
 ### 0140_reverse_permutation.java
 Shuffles a string by alternating adding the first or last character to the new string<br>
 https://www.codewars.com/kata/566efcfbf521a3cfd2000056/train/java
 
+<br>
 
+### 0141_anti_whitespace.java
+Removes all whitespace characters in a string<br>
+https://www.codewars.com/kata/5668e3800636a6cd6a000018/train/java
 
 
 
