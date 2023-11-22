@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 99 Problems<br>
+Python: 100 Problems<br>
 C++:    34 Problems<br>
 Java:    8 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 141<br>
+Number of solved problems so far: 142<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 119 days from 27.07.23<br>
+On going streak: 120 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -857,8 +857,11 @@ https://www.codewars.com/kata/566efcfbf521a3cfd2000056/train/java
 Removes all whitespace characters in a string<br>
 https://www.codewars.com/kata/5668e3800636a6cd6a000018/train/java
 
+<br>
 
-
+### 0142_password_maker.py
+Hashes a phrase into a password<br>
+https://www.codewars.com/kata/5637b03c6be7e01d99000046/train/python
 
 
 
