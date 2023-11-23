@@ -4,7 +4,7 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 100 Problems<br>
 C++:    34 Problems<br>
-Java:    8 Problems<br>
+Java:    9 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
@@ -863,7 +863,11 @@ https://www.codewars.com/kata/5668e3800636a6cd6a000018/train/java
 Hashes a phrase into a password<br>
 https://www.codewars.com/kata/5637b03c6be7e01d99000046/train/python
 
+<br>
 
+### Highest_occurence.java
+Finds the number of occurences for the most frequent integer in an array<br>
+https://www.codewars.com/kata/56582133c932d8239900002e/train/java
 
 
 
