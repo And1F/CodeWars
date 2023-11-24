@@ -4,13 +4,13 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 100 Problems<br>
 C++:    34 Problems<br>
-Java:    10 Problems<br>
+Java:    11 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 142<br>
+Number of solved problems so far: 145<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 120 days from 27.07.23<br>
+On going streak: 122 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -875,7 +875,11 @@ https://www.codewars.com/kata/56582133c932d8239900002e/train/java
 Checks wether a string ends with another string or not<br>
 https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/java
 
+<br>
 
+### 0145_min_max.java
+Finds the smallest and largest integer in a list<br>
+https://www.codewars.com/kata/57a1ae8c7cb1f31e4e000130/train/java
 
 
 
