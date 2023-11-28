@@ -4,13 +4,13 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 101 Problems<br>
 C++:    34 Problems<br>
-Java:    13 Problems<br>
+Java:    14 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 148<br>
+Number of solved problems so far: 149<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 125 days from 27.07.23<br>
+On going streak: 126 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -899,7 +899,11 @@ https://www.codewars.com/kata/57a4d500e298a7952100035d/train/java
 Given a key encrypts a message using the digital cypher technique<br>
 https://www.codewars.com/kata/592e830e043b99888600002d/train/python
 
+<br>
 
+### 0149_list_filtering.java
+Filters out all not integers from a list of objects<br>
+https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java
 
 
 
