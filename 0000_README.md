@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 101 Problems<br>
+Python: 102 Problems<br>
 C++:    34 Problems<br>
 Java:    15 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 150<br>
+Number of solved problems so far: 151<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 127 days from 27.07.23<br>
+On going streak: 128 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -911,8 +911,11 @@ https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/java
 Calculates the sum of a given sequence with steps<br>
 https://www.codewars.com/kata/586f6741c66d18c22800010a/train/java
 
+<br>
 
-
+### 0151_parts_of_a_list.py
+A Function that gives all the ways to divide a list of at least two elements into two non-empty parts.<br>
+https://www.codewars.com/kata/56f3a1e899b386da78000732/train/python
 
 
 
