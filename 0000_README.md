@@ -4,13 +4,13 @@ My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 102 Problems<br>
 C++:    34 Problems<br>
-Java:    15 Problems<br>
+Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 151<br>
+Number of solved problems so far: 152<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 128 days from 27.07.23<br>
+On going streak: 129 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -917,7 +917,11 @@ https://www.codewars.com/kata/586f6741c66d18c22800010a/train/java
 A Function that gives all the ways to divide a list of at least two elements into two non-empty parts.<br>
 https://www.codewars.com/kata/56f3a1e899b386da78000732/train/python
 
+<br>
 
+### 0152_nearest_square_number.java
+Finds the nearest square number of a given integer<br>
+https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/train/java
 
 
 
