@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 103 Problems<br>
+Python: 104 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 153<br>
+Number of solved problems so far: 154<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 130 days from 27.07.23<br>
+On going streak: 131 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -929,7 +929,11 @@ https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/train/java
 Returns a list with elements from a matrix in diagonal order<br>
 https://www.codewars.com/kata/5968fb556875980bd900000f/train/python
 
+<br>
 
+### 0154_year_to_century.py
+Turns a date from year format into century format<br>
+https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/python
 
 
 
