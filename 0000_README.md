@@ -938,7 +938,7 @@ https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/python
 <br>
 
 ### 0155_counting_dublicates.py
-Counts all characters that occur more than two times in a string.
+Counts all characters that occur more than two times in a string.<br>
 https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/python
 
 
