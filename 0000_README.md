@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 105 Problems<br>
+Python: 106 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 155<br>
+Number of solved problems so far: 156<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 132 days from 27.07.23<br>
+On going streak: 133 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -941,7 +941,11 @@ https://www.codewars.com/kata/52fb87703c1351ebd200081f/train/python
 Counts all characters that occur more than two times in a string.<br>
 https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/python
 
+<br>
 
+### 0156_advent_of_code_2023_05.py
+Solution for this years advent of code day 5 part one<br>
+https://adventofcode.com/2023/day/5
 
 
 
