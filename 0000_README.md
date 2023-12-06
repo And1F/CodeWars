@@ -947,7 +947,11 @@ https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/python
 Solution for this years advent of code day 5 part one<br>
 https://adventofcode.com/2023/day/5
 
+<br>
 
+### 0157_all_permutations.py
+Returns a set of all permutations of a given string<br>
+https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/python
 
 
 
