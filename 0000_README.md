@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 106 Problems<br>
+Python: 107 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 156<br>
+Number of solved problems so far: 158<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 133 days from 27.07.23<br>
+On going streak: 135 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -953,7 +953,11 @@ https://adventofcode.com/2023/day/5
 Returns a set of all permutations of a given string<br>
 https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/python
 
+<br>
 
+### 0158_rotate_or_reverse.py
+Does some operations with strings<br>
+https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991/train/python
 
 
 
