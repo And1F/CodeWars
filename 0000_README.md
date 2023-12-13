@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 112 Problems<br>
+Python: 113 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 163<br>
+Number of solved problems so far: 164<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 140 days from 27.07.23<br>
+On going streak: 141 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -989,7 +989,11 @@ https://www.codewars.com/kata/631f0c3a0b9cb0de6ded0529/train/python
 Implements the Hofstadter Female and Male sequence<br>
 https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b/train/python
 
+<br>
 
+### 0164_decimal_cycle.py
+Given a natural number returns the length of the cycle of the decimal given by 1/n<br>
+https://www.codewars.com/kata/5a057ec846d843c81a0000ad/train/python
 
 
 
