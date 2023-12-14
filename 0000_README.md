@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 113 Problems<br>
+Python: 114 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 164<br>
+Number of solved problems so far: 165<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 141 days from 27.07.23<br>
+On going streak: 142 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -995,7 +995,11 @@ https://www.codewars.com/kata/53a1eac7e0afd3ad3300008b/train/python
 Given a natural number returns the length of the cycle of the decimal given by 1/n<br>
 https://www.codewars.com/kata/5a057ec846d843c81a0000ad/train/python
 
+<br>
 
+### 0165_alphabet_symmetry.py
+From a list of strings returns the number of characters in symmetric position to the alphabet<br>
+https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/train/python
 
 
 
