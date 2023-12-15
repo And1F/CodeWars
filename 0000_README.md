@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 114 Problems<br>
+Python: 115 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 165<br>
+Number of solved problems so far: 166<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 142 days from 27.07.23<br>
+On going streak: 143 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1001,7 +1001,11 @@ https://www.codewars.com/kata/5a057ec846d843c81a0000ad/train/python
 From a list of strings returns the number of characters in symmetric position to the alphabet<br>
 https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/train/python
 
+<br>
 
+### 0166_always_perfect.py
+Calculates the 4 consecutive integers together and its square root<br>
+https://www.codewars.com/kata/55f3facb78a9fd5b26000036/train/python
 
 
 
