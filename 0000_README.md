@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 115 Problems<br>
+Python: 116 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 166<br>
+Number of solved problems so far: 167<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 143 days from 27.07.23<br>
+On going streak: 144 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1007,7 +1007,11 @@ https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/train/python
 Calculates the 4 consecutive integers together and its square root<br>
 https://www.codewars.com/kata/55f3facb78a9fd5b26000036/train/python
 
+<br>
 
+### 0167_3_powers_of_2.py
+Checks wether a number can be formus using 3 exponential numbers with base 2<br>
+https://www.codewars.com/kata/6545283611df271da7f8418c/train/python
 
 
 
