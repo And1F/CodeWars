@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 123 Problems<br>
+Python: 124 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 173<br>
+Number of solved problems so far: 174<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 150 days from 27.07.23<br>
+On going streak: 151 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1049,7 +1049,11 @@ https://www.codewars.com/kata/546dba39fa8da224e8000467/train/python
 Calculates the average of written out numbers<br>
 https://www.codewars.com/kata/5966847f4025872c7d00015b/train/python
 
+<br>
 
+### 0174_shorter_path.py
+Given multiple directions finds the shortest equivalent path<br>
+https://www.codewars.com/kata/56a14f18005af7002f00003f/train/python
 
 
 
