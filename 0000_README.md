@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 125 Problems<br>
+Python: 126 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 175<br>
+Number of solved problems so far: 176<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 152 days from 27.07.23<br>
+On going streak: 153 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1061,8 +1061,11 @@ https://www.codewars.com/kata/56a14f18005af7002f00003f/train/python
 With using *2 and +1 as steps finds to number at minimum needed to get to a number<br>
 https://www.codewars.com/kata/5cd4aec6abc7260028dcd942/train/python
 
+<br>
 
-
+### 0176_lucky_sevens.py
+Finds all sevens in an array whos neighbours sumed up result in a perfect cube (natural number ^3)<br>
+https://www.codewars.com/kata/58275b63083e128edb00098d/train/python
 
 
 
