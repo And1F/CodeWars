@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 131 Problems<br>
+Python: 132 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 181<br>
+Number of solved problems so far: 182<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 158 days from 27.07.23<br>
+On going streak: 159 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1097,7 +1097,11 @@ https://www.codewars.com/kata/5301329926d12b90cc000908/train/python
 Merges two dictionaries or more together<br>
 https://www.codewars.com/kata/5ae840b8783bb4ef79000094/train/python
 
+<br>
 
+### 0182_dictionary_of_factors.py
+Returns a dictionary with all the factors for numbers in a given range<br>
+https://www.codewars.com/kata/58bf3cd9c4492d942a0000de/train/python
 
 
 
