@@ -1103,7 +1103,11 @@ https://www.codewars.com/kata/5ae840b8783bb4ef79000094/train/python
 Returns a dictionary with all the factors for numbers in a given range<br>
 https://www.codewars.com/kata/58bf3cd9c4492d942a0000de/train/python
 
+<br>
 
+### 0183_largest_subsequence.py
+Finds the largest contiguous subsequence in an array and returns it's value<br>
+https://www.codewars.com/kata/56001790ac99763af400008c/train/python
 
 
 
