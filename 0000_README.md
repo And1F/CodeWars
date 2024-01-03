@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 133 Problems<br>
+Python: 134 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 184<br>
+Number of solved problems so far: 185<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 161 days from 27.07.23<br>
+On going streak: 162 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1115,8 +1115,11 @@ https://www.codewars.com/kata/56001790ac99763af400008c/train/python
 Given coordinates returns the count of triangles formed by the points, which have a 90° angle<br>
 https://www.codewars.com/kata/57d99f6bbfcdc5b3b0000286/train/python
 
+<br>
 
-
+### 0185_integer_recreation_two.py
+Solves this equation (a^2+b^2)*(c^2+d^2) = e^2+f^2 numerically for given a,b,c and d<br>
+https://www.codewars.com/kata/55e86e212fce2aae75000060/train/python
 
 
 
