@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 136 Problems<br>
+Python: 137 Problems<br>
 C++:    34 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 187<br>
+Number of solved problems so far: 188<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 164 days from 27.07.23<br>
+On going streak: 165 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1133,7 +1133,11 @@ https://www.codewars.com/kata/59f4a0acbee84576800000af/train/python
 Calculates the range, average and median for given time data<br>
 https://www.codewars.com/kata/55b3425df71c1201a800009c/train/python
 
+<br>
 
+### 0188_two_sum.py
+Finds the indexes of 2 numbers when added together resulting in a target<br>
+https://leetcode.com/problems/two-sum/
 
 
 
