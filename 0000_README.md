@@ -1143,7 +1143,7 @@ https://leetcode.com/problems/two-sum/
 
 ### 0189_merge_sort.py
 Merges two arrays together and sorts them<br>
-https://leetcode.com/problems/merge-sorted-array
+https://leetcode.com/problems/merge-sorted-array/
 
 
 
