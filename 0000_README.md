@@ -3,14 +3,14 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 138 Problems<br>
-C++:    35 Problems<br>
+C++:    36 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 190<br>
+Number of solved problems so far: 191<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 167 days from 27.07.23<br>
+On going streak: 168 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1151,7 +1151,11 @@ https://leetcode.com/problems/merge-sorted-array/
 Finds the greatest common divisor of the integers using euclids algorithm<br>
 https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd/train/cpp
 
+<br>
 
+### 0191_remove_duplicates.cpp
+Removes every copy of words that occur more than once<br>
+https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/cpp
 
 
 
