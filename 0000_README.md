@@ -3,14 +3,14 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 138 Problems<br>
-C++:    37 Problems<br>
+C++:    38 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 192<br>
+Number of solved problems so far: 193<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 169 days from 27.07.23<br>
+On going streak: 170 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1163,7 +1163,11 @@ https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/cpp
 Finds the largest 5 digit number in a string<br>
 https://www.codewars.com/kata/51675d17e0c1bed195000001/train/cpp
 
+<br>
 
+### 0193_matrix_multiplication.cpp
+Calculates the multiplication of two matrixes<br>
+https://www.codewars.com/kata/5263a84ffcadb968b6000513/train/cpp
 
 
 
