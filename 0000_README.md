@@ -3,14 +3,14 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 138 Problems<br>
-C++:    39 Problems<br>
+C++:    40 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 194<br>
+Number of solved problems so far: 195<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 171 days from 27.07.23<br>
+On going streak: 172 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1175,7 +1175,11 @@ https://www.codewars.com/kata/5263a84ffcadb968b6000513/train/cpp
 Generates a random password<br>
 https://www.codewars.com/kata/58ade2233c9736b01d0000b3/train/cpp
 
+<br>
 
+### 0195_lucas_numbers.cpp
+Implements a recursive function with memorisation<br>
+https://www.codewars.com/kata/55a7de09273f6652b200002e/train/cpp
 
 
 
