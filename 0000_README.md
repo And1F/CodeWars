@@ -3,14 +3,14 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 139 Problems<br>
-C++:    40 Problems<br>
+C++:    41 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 196<br>
+Number of solved problems so far: 197<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 173 days from 27.07.23<br>
+On going streak: 174 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1187,7 +1187,11 @@ https://www.codewars.com/kata/55a7de09273f6652b200002e/train/cpp
 Returns all pairs of k-primes that have a given difference in a given range<br>
 https://www.codewars.com/kata/5a48948e145c46820b00002f/train/python
 
+<br>
 
+### 0197_leanardo_numbers.py
+Implements a sequence<br>
+https://www.codewars.com/kata/5b2117eea454c89d4400005f/train/cpp
 
 
 
