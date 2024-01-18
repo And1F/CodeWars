@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 141 Problems<br>
+Python: 142 Problems<br>
 C++:    41 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 199<br>
+Number of solved problems so far: 200<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 176 days from 27.07.23<br>
+On going streak: 177 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1205,7 +1205,9 @@ https://www.codewars.com/kata/51edd51599a189fe7f000015/train/python
 From two coordinates returns the combined value of the vertical and horizontal distance<br>
 https://www.codewars.com/kata/52998bf8caa22d98b800003a/train/python
 
-
+### 0200_nth_digit.py
+Returns the nth_digit of a number<br>
+https://www.codewars.com/kata/577b9960df78c19bca00007e/train/python
 
 
 
