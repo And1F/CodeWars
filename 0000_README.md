@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 142 Problems<br>
+Python: 143 Problems<br>
 C++:    41 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 200<br>
+Number of solved problems so far: 201<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 177 days from 27.07.23<br>
+On going streak: 178 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1209,7 +1209,11 @@ https://www.codewars.com/kata/52998bf8caa22d98b800003a/train/python
 Returns the nth_digit of a number<br>
 https://www.codewars.com/kata/577b9960df78c19bca00007e/train/python
 
+<br>
 
+### 0201_longest_formable_palindrom.py
+Finds the length of the longest palindrom that can be formed using a given string<br>
+https://www.codewars.com/kata/5a0178f66f793bc5b0001728/train/python
 
 
 
