@@ -2,15 +2,15 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 144 Problems<br>
+Python: 145 Problems<br>
 C++:    41 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 202<br>
+Number of solved problems so far: 203<br>
 Last streak: 18 from 07.07.2023 until 25.07.2023<br>
-On going streak: 179 days from 27.07.23<br>
+On going streak: 180 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1219,7 +1219,11 @@ https://www.codewars.com/kata/5a0178f66f793bc5b0001728/train/python
 Returns the longest substring which is in alphabetical order<br>
 https://www.codewars.com/kata/5a7f58c00025e917f30000f1/train/python
 
+<br>
 
+### 0203_max_sum_of_parts.py
+Calculates the largest product of 3 parts of a number<br>
+https://www.codewars.com/kata/5a3a95c2e1ce0efe2c0001b0/train/python
 
 
 
