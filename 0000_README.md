@@ -2,14 +2,14 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 146 Problems<br>
+Python: 147 Problems<br>
 C++:    41 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 204<br>
-On going streak: 181 days from 27.07.23<br>
+Number of solved problems so far: 205<br>
+On going streak: 182 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1230,7 +1230,11 @@ https://www.codewars.com/kata/5a3a95c2e1ce0efe2c0001b0/train/python
 Brings number into a nice format and converts them into strings<br>
 https://www.codewars.com/kata/565c4e1303a0a006d7000127/train/python
 
+<br>
 
+### 0205_linear_regression.py
+From coordinates returns the y-interception and the slope of the linear regression line<br>
+https://www.codewars.com/kata/5515395b9cd40b2c3e00116c/train/python
 
 
 
