@@ -3,13 +3,13 @@ This repository contains mostly all my solved CodeWars problems and some LeetCod
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
 Python: 147 Problems<br>
-C++:    42 Problems<br>
+C++:    43 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 206<br>
-On going streak: 183 days from 27.07.23<br>
+Number of solved problems so far: 207<br>
+On going streak: 184 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1242,7 +1242,11 @@ https://www.codewars.com/kata/5515395b9cd40b2c3e00116c/train/python
 Counts out the nth element of a range until only one "survivor" is left<br>
 https://www.codewars.com/kata/555624b601231dc7a400017a/train/cpp
 
+<br>
 
+### 0207_largest_palindrome.cpp
+Finds the lenght of the largest consecutive palindrome in a string<br>
+https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/cpp
 
 
 
