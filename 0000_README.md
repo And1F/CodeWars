@@ -2,14 +2,14 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 148 Problems<br>
+Python: 149 Problems<br>
 C++:    43 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 208<br>
-On going streak: 185 days from 27.07.23<br>
+Number of solved problems so far: 209<br>
+On going streak: 186 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1254,8 +1254,9 @@ https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/cpp
 Checks wether a string is a isogram or not<br>
 https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python
 
-
-
+### 0209_grid_travel.py
+Finds all ways from one point in a grid to another one<br>
+https://www.codewars.com/kata/5845b080a87f768aaa00027c/train/python
 
 
 
