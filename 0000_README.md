@@ -2,14 +2,14 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 150 Problems<br>
+Python: 151 Problems<br>
 C++:    43 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 210<br>
-On going streak: 187 days from 27.07.23<br>
+Number of solved problems so far: 211<br>
+On going streak: 188 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1262,7 +1262,9 @@ https://www.codewars.com/kata/5845b080a87f768aaa00027c/train/python
 Calculates a function<br>
 https://www.codewars.com/kata/5574835e3e404a0bed00001b/train/python
 
-
+### 0211_string_reduction.py
+Finds out how many characters need to be deleted to morph into a target string<br>
+https://www.codewars.com/kata/59fab1f0c9fc0e7cd4000072/train/python
 
 
 
