@@ -2,14 +2,14 @@
 This repository contains mostly all my solved CodeWars problems and some LeetCode problems since 07.07.2023<br>
 My goal is to at least solve one problem a day<br>
 The primary Languages is Python. Other languages are C++ and Java<br>
-Python: 153 Problems<br>
+Python: 154 Problems<br>
 C++:    43 Problems<br>
 Java:    16 Problems<br>
 <br>
 Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata<br>
 Leetcode is an educational platform for computer programming. On the website, software developers train on programming problems<br>
-Number of solved problems so far: 213<br>
-On going streak: 190 days from 27.07.23<br>
+Number of solved problems so far: 214<br>
+On going streak: 191 days from 27.07.23<br>
 
 Description of the solved problems:
 -----------------------------------
@@ -1278,7 +1278,9 @@ https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/train/python
 Returns the least common_multiple<br>
 https://www.codewars.com/kata/5259acb16021e9d8a60010af/train/python
 
-
+### 0214_int32_to_ipv4.py
+Converts a ip adress given as an 32-bit integer into ipv4<br>
+https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/train/python
 
 
 
