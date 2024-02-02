@@ -28,6 +28,7 @@ https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/python
 ### 0003_first_non-repeating_character.py
 Returns the first character which doesn't repeat itself in the string<br>
 https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/python
+
 <br>
 
 ### 0004_beeramid.py
