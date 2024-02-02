@@ -1214,6 +1214,8 @@ https://www.codewars.com/kata/577b9960df78c19bca00007e/train/python
 Finds the length of the longest palindrom that can be formed using a given string<br>
 https://www.codewars.com/kata/5a0178f66f793bc5b0001728/train/python
 
+<br>
+
 ### 0202_longest_alphabetical_substring.py
 Returns the longest substring which is in alphabetical order<br>
 https://www.codewars.com/kata/5a7f58c00025e917f30000f1/train/python
@@ -1254,13 +1256,19 @@ https://www.codewars.com/kata/54bb6f887e5a80180900046b/train/cpp
 Checks wether a string is a isogram or not<br>
 https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python
 
+<br>
+
 ### 0209_grid_travel.py
 Finds all ways from one point in a grid to another one<br>
 https://www.codewars.com/kata/5845b080a87f768aaa00027c/train/python
 
+<br>
+
 ### 0210_handshake_problem.py
 Calculates a function<br>
 https://www.codewars.com/kata/5574835e3e404a0bed00001b/train/python
+
+<br>
 
 ### 0211_string_reduction.py
 Finds out how many characters need to be deleted to morph into a target string<br>
@@ -1278,13 +1286,19 @@ https://www.codewars.com/kata/5d5a7525207a674b71aa25b5/train/python
 Returns the least common_multiple<br>
 https://www.codewars.com/kata/5259acb16021e9d8a60010af/train/python
 
+<br>
+
 ### 0214_int32_to_ipv4.py
 Converts a ip adress given as an 32-bit integer into ipv4<br>
 https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/train/python
 
+<br>
+
 ### 0215_valid_braces.py
 Checks if all braces got closed<br>
 https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/python
+
+<br>
 
 
 
